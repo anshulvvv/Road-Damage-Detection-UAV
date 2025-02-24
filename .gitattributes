@@ -1,0 +1,4 @@
+models/mmyolo/* filter=lfs diff=lfs merge=lfs -text
+models/yolov10/* filter=lfs diff=lfs merge=lfs -text
+models/detr_model.ckpt filter=lfs diff=lfs merge=lfs -text
+models/lightning_logs/version_0/checkpoints/epoch=0-step=100.ckpt filter=lfs diff=lfs merge=lfs -text
