@@ -1,2 +1,2 @@
-models/mmyolo/
-models/yolov10/
+models/detr_model.ckpt
+models/lightning_logs/version_0/checkpoints/epoch=0-step-100.ckpt
