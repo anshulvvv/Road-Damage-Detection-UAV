@@ -1,0 +1,5 @@
+path: C:\Users\ANSHUL M\Downloads\dataset_rdd # dataset root dir
+train: images\train # train images (relative to 'path')
+val: images\val # val images (relative to 'path')
+nc: 4
+names: ["D00", "D10", "D20", "D40"]
